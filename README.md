@@ -1,2 +1,4 @@
 # project.spse
-my first repository
+my first repository :)
+
+I like 🍕
